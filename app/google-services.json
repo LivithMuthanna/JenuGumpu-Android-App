@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "588007310466",
+    "project_id": "livith01project",
+    "storage_bucket": "livith01project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588007310466:android:99e72bc35b88167b67209b",
+        "android_client_info": {
+          "package_name": "com.honeyhunter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588007310466-n4dds6qmp7rq4nepsc4acfss78qjsskk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjSV_vlcxB5BIc_U7Jwz6AYg-k51PoZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588007310466-n4dds6qmp7rq4nepsc4acfss78qjsskk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588007310466:android:0c6711c9fa79230167209b",
+        "android_client_info": {
+          "package_name": "com.jenugumpu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588007310466-n4dds6qmp7rq4nepsc4acfss78qjsskk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjSV_vlcxB5BIc_U7Jwz6AYg-k51PoZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588007310466-n4dds6qmp7rq4nepsc4acfss78qjsskk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
