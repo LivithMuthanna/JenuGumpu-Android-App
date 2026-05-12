@@ -10,6 +10,25 @@
 
 ---
 
+## 📱 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Welcome Screen</b><br><img src="screenshots/login.png" width="200" /></td>
+      <td align="center"><b>Home Dashboard</b><br><img src="screenshots/dashboard.png" width="200" /></td>
+      <td align="center"><b>Market Insights</b><br><img src="screenshots/market.png" width="200" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Harvest Log</b><br><img src="screenshots/log.png" width="200" /></td>
+      <td align="center"><b>Add Record</b><br><img src="screenshots/add_record.png" width="200" /></td>
+      <td align="center"><b>Grading Reference</b><br><img src="screenshots/grading.png" width="200" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🌟 Key Features
 
 ### 🍯 Intelligent Harvest Management
@@ -22,6 +41,7 @@
 
 ### 🧠 Jenu-Bee: The AI Assistant
 *   **Powered by Gemini Pro**: An AI companion that provides sustainable harvesting advice, quality grading tips, and purity analysis guidance.
+*   **Expert Q&A**: Real-time support for honey producers to resolve quality issues on the fly.
 
 ### 💰 ROI Journey (Profit Manifesto)
 *   **Value Optimization**: A specialized calculator that shows producers how processing (filtering, moisture control, branding) transforms raw liquid value into premium market yields.
@@ -67,7 +87,6 @@ In many tribal regions, hunters sell 1kg of premium wild honey for prices signif
 ## 🤝 Developed By
 
 **Livith Muthanna M A**  
-*e-mail: livithmuthanna@gmail.com*  
+**E-mail: livithmuthanna@gmail.com** 
 
 ---
-
