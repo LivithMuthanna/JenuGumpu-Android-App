@@ -10,25 +10,6 @@
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Welcome Screen</b><br><img src="screenshots/login.png" width="200" /></td>
-      <td align="center"><b>Home Dashboard</b><br><img src="screenshots/dashboard.png" width="200" /></td>
-      <td align="center"><b>Market Insights</b><br><img src="screenshots/market.png" width="200" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Harvest Log</b><br><img src="screenshots/log.png" width="200" /></td>
-      <td align="center"><b>Add Record</b><br><img src="screenshots/add_record.png" width="200" /></td>
-      <td align="center"><b>Grading Reference</b><br><img src="screenshots/grading.png" width="200" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🌟 Key Features
 
 ### 🍯 Intelligent Harvest Management
