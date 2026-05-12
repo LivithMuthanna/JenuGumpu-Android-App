@@ -41,7 +41,6 @@
 
 ### 🧠 Jenu-Bee: The AI Assistant
 *   **Powered by Gemini Pro**: An AI companion that provides sustainable harvesting advice, quality grading tips, and purity analysis guidance.
-*   **Expert Q&A**: Real-time support for honey producers to resolve quality issues on the fly.
 
 ### 💰 ROI Journey (Profit Manifesto)
 *   **Value Optimization**: A specialized calculator that shows producers how processing (filtering, moisture control, branding) transforms raw liquid value into premium market yields.
