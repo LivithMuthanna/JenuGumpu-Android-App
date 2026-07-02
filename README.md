@@ -158,7 +158,7 @@ jenu-gumpu/
 - Android Studio (Koala or newer)
 - JDK 17+
 - A Firebase project with **Firestore** and **Google Authentication** enabled
-- A **Gemini API key** from [Google AI Studio](https://aistudio.google.com/)
+- A **Gemini API key**
 
 ### Installation
 
