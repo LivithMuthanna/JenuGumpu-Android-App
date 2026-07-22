@@ -223,12 +223,6 @@ Contributions, issues, and feature requests are welcome.
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License.
-
----
-
 ## 📬 Contact
 
 **Livith Muthanna M A**
